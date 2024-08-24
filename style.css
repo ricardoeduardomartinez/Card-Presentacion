@@ -19,7 +19,6 @@
 }
 .contenedor__biopi{
     max-width: 412px;
-
     background-color:rgba(0,0,0, 0.5) ;
     border-radius: 26px ;
     padding: 16px;
@@ -36,14 +35,11 @@
     1px 1px 2px black,
     0 0 1em blue,
     0 0 0.2em blue;
-    font-size: 24px; /* Ajusta este valor según el tamaño que desees */
-    line-height: 1.5; /* Ajusta el espacio entre líneas */
-    font-family: 'Arial', sans-serif; /* Cambia la fuente si lo prefieres */
+    font-size: 24px; 
+    line-height: 1.5; 
+    font-family: 'Arial', sans-serif;
 
 }
-
-
-
 .contenedor__centro{
     max-width: 512px;
     background-color:rgba(0,0,0, 0.5) ;
